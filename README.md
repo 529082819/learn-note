@@ -1,2 +1,5 @@
 # Blog
-个人读书笔记以及思维导图
+
+## Linux
+
++ [Centos安装nginx](https://github.com/zhuangZhou/Blog/issues/1)
