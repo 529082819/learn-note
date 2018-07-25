@@ -12,9 +12,10 @@
 
 ### Koa
 
-+ [koa2实现简易的webpack-dev-server热更新](https://github.com/zhuangZhou/Blog/issues/3)
+- [x][koa2实现简易的webpack-dev-server热更新](https://github.com/zhuangZhou/Blog/issues/3)
 
 ### Linux
 
-+ [Centos安装nginx](https://github.com/zhuangZhou/Blog/issues/1)
-+ [Centos更换yum源](https://github.com/zhuangZhou/Blog/issues/2)
+- [x][Centos安装nginx](https://github.com/zhuangZhou/Blog/issues/1)
+- [x][Centos更换yum源](https://github.com/zhuangZhou/Blog/issues/2)
+- [x][Nginx反向代理node](https://github.com/zhuangZhou/Blog/issues/4)
